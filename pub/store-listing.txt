@@ -1,5 +1,4 @@
 Title: Prince George TS Bus - MonTra…
-// Title: PG Transit Bus - MonTransit
 ----------
 Short description:
 Prince George Transit System buses for MonTransit.
