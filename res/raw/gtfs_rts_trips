@@ -1,13 +1,17 @@
-100,0,'Downtown - Foothills - Spruceland',1
+101,0,'5th & Ospika',1
+100,0,'Rainbow',1
 500,0,'Downtown',5
-1101,0,'Spruceland - Foothills - Downtown',11
+1000,0,'Downtown',10
+1001,0,'Spruceland',10
 1501,0,'Downtown',15
 1500,0,'Unbc',15
 1601,0,'UNBC/College Hts',16
-4600,0,'Queensway - Pine Ctr - CNC - Downtown',46
+1701,0,'Unbc',17
+1800,0,'Spruceland',18
+4600,0,'Downtown',46
 4701,0,'CNC - Pine Ctr - Queensway - Downtown',47
 5501,0,'Downtown',55
-8801,0,'Westgate Mall',88
-8900,0,'Hart Ctr',89
+8801,0,'Westgate',88
+8900,0,'Hart',89
 9100,0,'Hart',91
 9101,0,'Spruceland',91
