@@ -5,7 +5,7 @@ Prince George Transit System buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from September 5, 2017 to April 28, 2018.
+Schedule from September 6, 2017 to April 28, 2018.
 Tweets from @BCTransit.
 ----------
 Full description:
