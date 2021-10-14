@@ -1,2 +1,1 @@
-Prince George Transit System buses for MonTransit.
-Schedule. Alerts. News.
+Prince George Transit System buses for MonTransit. Schedule. Alerts. News.
