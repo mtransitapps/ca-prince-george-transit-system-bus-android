@@ -1,17 +1,17 @@
-1,'1','Heritage','004B8D'
-5,'5','Victoria / 5th','F8931E'
-10,'10','Downtown / Spruceland','8CC640'
-11,'11','Heritage','8CC63F'
-12,'12','Parkridge','49176D'
-15,'15','UNBC / Downtown','EC1D8D'
-16,'16','UNBC / College Hts','00B9BF'
-19,'19','UNBC / Westgate',''
-46,'46','Queensway','8D0B3A'
-47,'47','Reverse Queensway','00AA4F'
-55,'55','5th / Victoria','00AEEF'
-88,'88','Westgate','FFC10E'
-89,'89','Hart','0073AE'
-91,'91','Spruceland / Hart','BF83B9'
-96,'96','Shas Ti Kelly Rd Via N Nechako','B5BB19'
-97,'97','Shas Ti Kelly Rd Via John Hart Hwy','367D0F'
-105,'105','Pine Ctr / Downtown Express',''
+1,'1','Heritage','004B8D',1328766660,3
+5,'5','Victoria / 5th','F8931E',-693467840,3
+10,'10','Downtown / Spruceland','8CC640',-1605047402,3
+11,'11','Heritage','8CC63F',-2110606027,3
+12,'12','Parkridge','49176D',1678802644,3
+15,'15','UNBC / Downtown','EC1D8D',162126769,3
+16,'16','UNBC / College Hts','00B9BF',-343431856,3
+19,'19','UNBC / Westgate','',-1860107731,3
+46,'46','Queensway','8D0B3A',-115743725,3
+47,'47','Reverse Queensway','00AA4F',-621302350,3
+55,'55','5th / Victoria','00AEEF',1897366709,3
+88,'88','Westgate','FFC10E',608378965,3
+89,'89','Hart','0073AE',102820340,3
+91,'91','Spruceland / Hart','BF83B9',1359873853,3
+96,'96','Shas Ti Kelly Rd Via N Nechako','B5BB19',-1167919272,3
+97,'97','Shas Ti Kelly Rd Via John Hart Hwy','367D0F',-1673477897,3
+105,'105','Pine Ctr / Downtown Express','',-591795937,3
