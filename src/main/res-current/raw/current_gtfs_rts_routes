@@ -5,7 +5,7 @@
 12,'12','Parkridge','49176D',1678802644,3
 15,'15','UNBC / Downtown','EC1D8D',162126769,3
 16,'16','UNBC / College Hts','00B9BF',-343431856,3
-19,'19','UNBC / Westgate','',-1860107731,3
+19,'19','UNBC / Westgate','B978B3',-1860107731,3
 46,'46','Queensway','8D0B3A',-115743725,3
 47,'47','Reverse Queensway','00AA4F',-621302350,3
 55,'55','5th / Victoria','00AEEF',1897366709,3
@@ -14,4 +14,6 @@
 91,'91','Spruceland / Hart','BF83B9',1359873853,3
 96,'96','Shas Ti Kelly Rd Via N Nechako','B5BB19',-1167919272,3
 97,'97','Shas Ti Kelly Rd Via John Hart Hwy','367D0F',-1673477897,3
-105,'105','Pine Ctr / Downtown Express','',-591795937,3
+105,'105','Pine Ctr / Downtown Express','776EAF',-591795937,3
+161,'161','Prince George / Burns Lk','0F6534',1885814825,3
+162,'162','Smithers / Burns Lk','',1380256200,3
