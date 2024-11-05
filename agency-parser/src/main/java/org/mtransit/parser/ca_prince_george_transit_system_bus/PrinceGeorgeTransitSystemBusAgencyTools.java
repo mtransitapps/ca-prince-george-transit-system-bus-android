@@ -128,6 +128,24 @@ public class PrinceGeorgeTransitSystemBusAgencyTools extends DefaultAgencyTools 
 		return true;
 	}
 
+	@Override
+	public boolean directionFinderEnabled(long routeId, @NotNull GRoute gRoute) {
+		if (routeId == 5L) {
+			return false; // 2024-11-05: it's a mess
+		} else if (routeId == 55L) {
+			return false; // 2024-11-05: it's a mess
+		}
+		return super.directionFinderEnabled(routeId, gRoute);
+	}
+
+	@Override
+	public boolean allowNonDescriptiveHeadSigns(long routeId) {
+		if (routeId == 55L) {
+			return true; // 2024-11-05: it's a mess
+		}
+		return super.allowNonDescriptiveHeadSigns(routeId);
+	}
+
 	private static final Cleaner RTE_1_HERITAGE_ = new Cleaner(
 			"(^heritage (- )?(.*))",
 			"$3",
