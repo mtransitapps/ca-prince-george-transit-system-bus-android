@@ -4,7 +4,6 @@
 1000,0,'Downtown',10
 1001,0,'Spruceland',10
 1101,0,'Heritage',11
-1200,0,'Westgate',12
 1500,0,'Downtown',15
 1501,0,'UNBC',15
 1601,0,'College Hts',16
@@ -19,9 +18,6 @@
 8900,0,'Hart',89
 9100,0,'Hart',91
 9101,0,'Spruceland',91
-9601,0,'Shas Ti Kelly Rd',96
-9600,0,'Spruceland',96
-9701,0,'Shas Ti Kelly Rd / Spruceland',97
 16101,0,'Burns Lk',161
 16100,0,'Prince George',161
 16200,0,'Burns Lk / Smithers',162
