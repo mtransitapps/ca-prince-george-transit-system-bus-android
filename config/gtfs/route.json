@@ -1,0 +1,22 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "route_id_cleanup_regex": "\\-[A-Z]+$",
+    "default_route_long_name_enabled": true,
+    "direction_splitter_enabled": true,
+    "direction_id_override_enabled_until": {
+        "55": "20260711"
+    },
+    "direction_finder_enabled": true,
+    "allow_non_descriptive_head_signs_until": {},
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "regex": "unbc",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UNBC"
+        }
+    ],
+    "stop_name_cleaners": []
+}
