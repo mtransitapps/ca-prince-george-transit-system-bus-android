@@ -10,6 +10,13 @@
     "direction_finder_enabled": true,
     "allow_non_descriptive_head_signs_until": {},
     "trip_headsign_remove_via": true,
-    "trip_headsign_cleaners": [],
+    "trip_headsign_cleaners": [
+        {
+            "regex": "unbc",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "UNBC"
+        }
+    ],
     "stop_name_cleaners": []
 }
