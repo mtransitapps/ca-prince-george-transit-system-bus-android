@@ -5,7 +5,7 @@
     "default_route_long_name_enabled": true,
     "direction_splitter_enabled": true,
     "direction_id_override_enabled_until": {
-        "55": "20260711"
+        "55": "20260911"
     },
     "direction_finder_enabled": true,
     "allow_non_descriptive_head_signs_until": {},
