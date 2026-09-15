@@ -5,8 +5,9 @@
     "default_route_long_name_enabled": true,
     "direction_splitter_enabled": true,
     "direction_id_override_enabled_until": {
-        "55": "20260911"
+        "55": "20270915"
     },
+    "direction_id_override_enabled_until_55_comment": "Route 55 trips direction IDs are mixed up in the data",
     "direction_finder_enabled": true,
     "allow_non_descriptive_head_signs_until": {},
     "trip_headsign_remove_via": true,
